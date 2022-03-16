@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **node.js, Angular**
 
-- 📝 I regularly write articles on [dev.to/smetankajakub](dev.to/smetankajakub)
+- 📝 I regularly write articles on [dev.to/smetankajakub](https://dev.to/smetankajakub)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
